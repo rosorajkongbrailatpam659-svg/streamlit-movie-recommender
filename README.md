@@ -1,2 +1,30 @@
-# streamlit-movie-recommender
-Developed a Machine Learning-based Movie Recommendation System using Python, Scikit-learn, and Streamlit. Implemented content-based filtering with cosine similarity and NLP techniques on movie overviews. Integrated TMDB API for real-time poster retrieval and deployed the application on Streamlit Cloud for public access.
+# 🎬 Movie Recommendation System
+
+A simple content-based Movie Recommendation System built using Machine Learning and Streamlit.  
+It recommends similar movies based on user selection and shows movie posters using TMDB API.
+
+---
+
+## 🚀 Features
+
+- Recommend similar movies based on selected movie
+- Displays movie posters using TMDB API
+- Simple and interactive UI using Streamlit
+- Uses Machine Learning (Cosine Similarity)
+- Fast and lightweight project
+
+---
+
+## 🧠 Tech Stack
+
+- Python 🐍
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Requests
+- TMDB API
+
+---
+
+## 📁 Project Structure
